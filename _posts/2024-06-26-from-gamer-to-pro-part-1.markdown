@@ -16,17 +16,12 @@ These innovative keyboards come at a premium price, targeting the "power user" w
 
 Inspired by commercially available split ergonomic keyboards, I'm building a custom keyboard with a staggered column layout. It will share this core layout for ergonomic typing but with my own personal touch. Let's break down the key features:
 
-Split ergonomic keyboard layout for optimized typing comfort
-
-Compact design enabled by a custom-designed PCB
-
-MX Hot-swappable switches for easy customization
-
-Mirrored PCB usable for both left and right halves
-
-Home-assembled for a DIY adventure
-
-3D printed case designed and printed at home
+- Split ergonomic keyboard layout for optimized typing comfort
+- Compact design enabled by a custom-designed PCB
+- MX Hot-swappable switches for easy customization
+- Mirrored PCB usable for both left and right halves
+- Home-assembled for a DIY adventure
+- 3D printed case designed and printed at home
 
 Now, full disclosure: I'm a complete novice in this domain. PCB design, CAD, electronics, firmware coding, and precise 3D printing – the challenges ahead are daunting.
 
