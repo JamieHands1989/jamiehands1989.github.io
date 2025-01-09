@@ -2,7 +2,7 @@
 layout: post
 title:  "From Gamer to Pro: Building a Custom Ergonomic Keyboard"
 date:   2024-06-26 11:21:03 +0000
-categories: jekyll update
+permalink: /blog/custom-mechanical-keyboard-introduction
 ---
 For years, my trusty Corsair K70 RGB Rapidfire served me well in the world of PC gaming. But as a developer who spends more time writing code than slaying dragons, the keyboard's lightning-fast actuation distance started causing more typos than triumphs. It was time for a change, a keyboard upgrade fit for a modern coder's needs.
 

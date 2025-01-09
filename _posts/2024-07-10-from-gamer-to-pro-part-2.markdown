@@ -2,7 +2,7 @@
 layout: post
 title:  "From Gamer to Pro: Building a Custom Ergonomic Keyboard (Part 2) - PCB Design"
 date:   2024-07-10 11:21:03 +0000
-categories: jekyll update
+permalink: /blog/from-gamer-to-pro-pcb-creation-with-kicad
 ---
 Welcome to part 2 of the From Gamer to Pro series! In part 1, we explored the journey from gamer to developer and why a traditional keyboard wouldn't cut it anymore. We also looked at the exciting world of ergonomic keyboards and how this project aims to build a custom split keyboard with a staggered column layout.
 

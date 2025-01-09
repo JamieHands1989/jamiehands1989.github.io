@@ -2,7 +2,7 @@
 layout: post
 title:  "From Gamer to Pro: Building a Custom Ergonomic Keyboard (Part 3) - Case Design"
 date:   2024-07-21 11:21:03 +0000
-categories: jekyll update
+permalink: /blog/from-gamer-to-pro-building-a-custom-ergonomic-keyboard-part-3-case-design
 ---
 Continuing the 'From Gamer to Pro' series, this article details creating a custom ergonomic keyboard case using 3D printing and basic design principles.
 

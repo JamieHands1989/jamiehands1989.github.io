@@ -2,7 +2,7 @@
 layout: post
 title:  "From Gamer to Pro: Building the Brains of the Keyboard (Part 4)"
 date:   2024-07-28 11:21:03 +0000
-categories: jekyll update
+permalink: /home/from-gamer-to-pro-building-the-brains-of-the-keyboard-part-4
 ---
 Hey everyone, welcome back to the final installment of the "From Gamer to Pro" series! We've taken a deep dive into the world of custom ergonomic keyboards, exploring the design process from concept to (almost) completion. Today, we'll tackle the final piece of the puzzle: the firmware, the brains that bring our keyboard to life.
 
