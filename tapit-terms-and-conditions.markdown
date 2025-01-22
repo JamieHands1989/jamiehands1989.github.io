@@ -1,6 +1,5 @@
 ---
-layout: post
-date:   2025-01-22 11:21:03 +0000
+layout: page
 permalink: /tapit/tandcs
 ---
 **Tap It - Terms & Conditions**  
